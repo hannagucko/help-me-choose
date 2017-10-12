@@ -4,6 +4,7 @@ body {
   justify-content: center;
   align-items: center;
   margin-top: 150px;
+  background-color: #F5C7F7;
 }
 
 h1 {
@@ -30,4 +31,10 @@ input {
 
 .addOption {
   margin-top: 10px;
+}
+button {
+  font-size: 20px;
+  border-radius: 4px;
+  background-color: white;
+  border: 2px solid #FC5C9C;
 }
